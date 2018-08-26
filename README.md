@@ -42,3 +42,9 @@ h53 <options>:
 
     h53 -t A -n google.com  -d -v
 ```
+
+## Install 
+
+`go build h53.go`
+
+No dependencies beyond stdlib
